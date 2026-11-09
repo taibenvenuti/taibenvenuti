@@ -19,6 +19,6 @@ I started programming by making mods for *Cities: Skylines*, then went on to wor
 - [**HeimForge**](https://github.com/heimforge-dev/heimforge) - a generator for standalone Valheim mod-suite projects built around BepInEx and Jotunn.
 - [**Glotterfly**](https://github.com/benbis-dev/glotterfly) - an early-stage browser extension for translating webpages.
 - [**omp-codex-image-gen**](https://github.com/taibenvenuti/omp-codex-image-gen) - image generation and editing for Oh My Pi.
-- [**ForestBrush**](https://github.com/taibenvenuti/ForestBrush) and [**ThemeMixer**](https://github.com/taibenvenuti/ThemeMixer) - some of my *Cities: Skylines* modding work.
+- [**ForestBrush**](https://github.com/twilightsaurus/ForestBrush) and [**ThemeMixer**](https://github.com/twilightsaurus/ThemeMixer) - some of my *Cities: Skylines* modding work.
 
 **Portfolio:** [benvenuti.fi](https://benvenuti.fi)
